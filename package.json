@@ -1,0 +1,20 @@
+{
+  "name": "javascript-coding-kata",
+  "version": "0.0.1",
+  "description": "not meant to be exported/imported as a package",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flarnie/javascript-coding-kata.git"
+  },
+  "author": "flarnie",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/flarnie/javascript-coding-kata/issues"
+  },
+  "private": true,
+  "homepage": "https://github.com/flarnie/javascript-coding-kata#readme"
+}
